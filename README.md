@@ -28,8 +28,9 @@
 **``本系列共包含 36 篇文章，分成五个模块详细介绍推荐系统的相关知识。``**
 
 * **概念篇**：介绍一些推荐系统有关的理念、思考、形而上的内容，虽然务虚但是必要。
-> * [你真的需要个性化推荐系统吗](https://github.com/Alluka-L/Theory-of-Recommendation-System/blob/master/%E6%A6%82%E5%BF%B5%E7%AF%87/1.%E4%BD%A0%E7%9C%9F%E7%9A%84%E9%9C%80%E8%A6%81%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E5%90%97%EF%BC%9F.md)
-> * [个性化推荐系统那些绕不开的问题 ](https://github.com/Alluka-L/Theory-of-Recommendation-System/blob/master/%E6%A6%82%E5%BF%B5%E7%AF%87/2.%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E9%82%A3%E4%BA%9B%E7%BB%95%E4%B8%8D%E5%BC%80%E7%9A%84%E9%97%AE%E9%A2%98.md)
+> * [【概念篇】你真的需要个性化推荐系统吗](https://github.com/Alluka-L/Theory-of-Recommendation-System/blob/master/%E6%A6%82%E5%BF%B5%E7%AF%87/1.%E4%BD%A0%E7%9C%9F%E7%9A%84%E9%9C%80%E8%A6%81%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E5%90%97%EF%BC%9F.md)
+> * [【概念篇】个性化推荐系统那些绕不开的问题](https://github.com/Alluka-L/Theory-of-Recommendation-System/blob/master/%E6%A6%82%E5%BF%B5%E7%AF%87/2.%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E9%82%A3%E4%BA%9B%E7%BB%95%E4%B8%8D%E5%BC%80%E7%9A%84%E9%97%AE%E9%A2%98.md)
+> * [【概念篇】这些你必须具备的思维模式](https://github.com/Alluka-L/Theory-of-Recommendation-System/blob/master/%E6%A6%82%E5%BF%B5%E7%AF%87/3.%E8%BF%99%E4%BA%9B%E4%BD%A0%E5%BF%85%E9%A1%BB%E5%85%B7%E5%A4%87%E7%9A%84%E6%80%9D%E7%BB%B4%E6%A8%A1%E5%BC%8F.md)
 * **原理篇**：推荐算法的原理介绍，是俗称的干货。知道推荐系统背后技术的基本原理后，你可以更快地开发自己的系统，更好地优化自己的系统，并且更容易去学习专栏中未涉及的内容。
 * **工程篇**：推荐算法的实践内容。系统落地时需要一些纯工程上的大小事情，架构、选型、案例等。
 * **产品篇**：推荐系统要成功，还要考虑产品理念及其商业价值，因此这部分介绍一些产品知识和一点浅显的商业思考。
