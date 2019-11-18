@@ -32,6 +32,8 @@
 > * [【概念篇】个性化推荐系统那些绕不开的问题](https://github.com/Alluka-L/Theory-of-Recommendation-System/blob/master/%E6%A6%82%E5%BF%B5%E7%AF%87/2.%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E9%82%A3%E4%BA%9B%E7%BB%95%E4%B8%8D%E5%BC%80%E7%9A%84%E9%97%AE%E9%A2%98.md)
 > * [【概念篇】这些你必须具备的思维模式](https://github.com/Alluka-L/Theory-of-Recommendation-System/blob/master/%E6%A6%82%E5%BF%B5%E7%AF%87/3.%E8%BF%99%E4%BA%9B%E4%BD%A0%E5%BF%85%E9%A1%BB%E5%85%B7%E5%A4%87%E7%9A%84%E6%80%9D%E7%BB%B4%E6%A8%A1%E5%BC%8F.md)
 * **原理篇**：推荐算法的原理介绍，是俗称的干货。知道推荐系统背后技术的基本原理后，你可以更快地开发自己的系统，更好地优化自己的系统，并且更容易去学习专栏中未涉及的内容。
+> * [【内容推荐】画鬼容易画人难：用户画像的“能”和“不能”](https://github.com/Alluka-L/Theory-of-Recommendation-System/blob/master/%E5%8E%9F%E7%90%86%E7%AF%87/1.%E3%80%90%E5%86%85%E5%AE%B9%E6%8E%A8%E8%8D%90%E3%80%91%E7%94%BB%E9%AC%BC%E5%AE%B9%E6%98%93%E7%94%BB%E4%BA%BA%E9%9A%BE%EF%BC%9A%E7%94%A8%E6%88%B7%E7%94%BB%E5%83%8F%E7%9A%84%E2%80%9C%E8%83%BD%E2%80%9D%E5%92%8C%E2%80%9C%E4%B8%8D%E8%83%BD%E2%80%9D.md)
+> * [【内容推荐】从文本到用户画像有多远](https://github.com/Alluka-L/Theory-of-Recommendation-System/blob/master/%E5%8E%9F%E7%90%86%E7%AF%87/2.%E3%80%90%E5%86%85%E5%AE%B9%E6%8E%A8%E8%8D%90%E3%80%91%E4%BB%8E%E6%96%87%E6%9C%AC%E5%88%B0%E7%94%A8%E6%88%B7%E7%94%BB%E5%83%8F%E6%9C%89%E5%A4%9A%E8%BF%9C.md)
 * **工程篇**：推荐算法的实践内容。系统落地时需要一些纯工程上的大小事情，架构、选型、案例等。
 * **产品篇**：推荐系统要成功，还要考虑产品理念及其商业价值，因此这部分介绍一些产品知识和一点浅显的商业思考。
 * **团队篇**：从个人来说，就是该怎么学习和成长；从团队来说，就是该招多少人，该有哪些人，以及产品经理和工程师该如何合作等问题。
