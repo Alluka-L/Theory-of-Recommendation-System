@@ -38,9 +38,9 @@
 > * [【内容推荐】从文本到用户画像有多远](https://github.com/Alluka-L/Theory-of-Recommendation-System/blob/master/%E5%8E%9F%E7%90%86%E7%AF%87/2.%E3%80%90%E5%86%85%E5%AE%B9%E6%8E%A8%E8%8D%90%E3%80%91%E4%BB%8E%E6%96%87%E6%9C%AC%E5%88%B0%E7%94%A8%E6%88%B7%E7%94%BB%E5%83%8F%E6%9C%89%E5%A4%9A%E8%BF%9C.md)
 > * [【内容推荐】超越标签的内容推荐系统](https://github.com/Alluka-L/Theory-of-Recommendation-System/blob/master/%E5%8E%9F%E7%90%86%E7%AF%87/3.%E3%80%90%E5%86%85%E5%AE%B9%E6%8E%A8%E8%8D%90%E3%80%91%E8%B6%85%E8%B6%8A%E6%A0%87%E7%AD%BE%E7%9A%84%E5%86%85%E5%AE%B9%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F.md)
 > * [【近邻推荐】人以群分，你是什么人就看到什么世界](https://github.com/Alluka-L/Theory-of-Recommendation-System/blob/master/%E5%8E%9F%E7%90%86%E7%AF%87/4.%E3%80%90%E8%BF%91%E9%82%BB%E6%8E%A8%E8%8D%90%E3%80%91%E4%BA%BA%E4%BB%A5%E7%BE%A4%E5%88%86%EF%BC%8C%E4%BD%A0%E6%98%AF%E4%BB%80%E4%B9%88%E4%BA%BA%E5%B0%B1%E7%9C%8B%E5%88%B0%E4%BB%80%E4%B9%88%E4%B8%96%E7%95%8C.md)
-> * 【近邻推荐】解密“看了又看”和”买了又买“
-> * 【近邻推荐】协同过滤中的相似度计算方法有哪些
-> * 【矩阵分解】那些在Netflix Prize中大放异彩的推荐算法
+> * [【近邻推荐】解密“看了又看”和”买了又买“](https://github.com/Alluka-L/Theory-of-Recommendation-System/blob/master/%E5%8E%9F%E7%90%86%E7%AF%87/5.%E3%80%90%E8%BF%91%E9%82%BB%E6%8E%A8%E8%8D%90%E3%80%91%E8%A7%A3%E5%AF%86%E2%80%9C%E7%9C%8B%E4%BA%86%E5%8F%88%E7%9C%8B%E2%80%9D%E5%92%8C%E2%80%9C%E4%B9%B0%E4%BA%86%E5%8F%88%E4%B9%B0%E2%80%9D.md)
+> * [【近邻推荐】协同过滤中的相似度计算方法有哪些](https://github.com/Alluka-L/Theory-of-Recommendation-System/blob/master/%E5%8E%9F%E7%90%86%E7%AF%87/6.%E3%80%90%E8%BF%91%E9%82%BB%E6%8E%A8%E8%8D%90%E3%80%91%E5%8D%8F%E5%90%8C%E8%BF%87%E6%BB%A4%E4%B8%AD%E7%9A%84%E7%9B%B8%E4%BC%BC%E5%BA%A6%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95%E6%9C%89%E5%93%AA%E4%BA%9B.md)
+> * [【矩阵分解】那些在Netflix Prize中大放异彩的推荐算法](https://github.com/Alluka-L/Theory-of-Recommendation-System/blob/master/%E5%8E%9F%E7%90%86%E7%AF%87/7.%E3%80%90%E7%9F%A9%E9%98%B5%E5%88%86%E8%A7%A3%E3%80%91%E9%82%A3%E4%BA%9B%E5%9C%A8Netflix%20Prize%E4%B8%AD%E5%A4%A7%E6%94%BE%E5%BC%82%E5%BD%A9%E7%9A%84%E6%8E%A8%E8%8D%90%E7%AE%97%E6%B3%95.md)
 * **工程篇**：推荐算法的实践内容。系统落地时需要一些纯工程上的大小事情，架构、选型、案例等。
 * **产品篇**：推荐系统要成功，还要考虑产品理念及其商业价值，因此这部分介绍一些产品知识和一点浅显的商业思考。
 * **团队篇**：从个人来说，就是该怎么学习和成长；从团队来说，就是该招多少人，该有哪些人，以及产品经理和工程师该如何合作等问题。
