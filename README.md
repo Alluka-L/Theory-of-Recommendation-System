@@ -43,6 +43,9 @@
 > * [【矩阵分解】那些在Netflix Prize中大放异彩的推荐算法](https://github.com/Alluka-L/Theory-of-Recommendation-System/blob/master/%E5%8E%9F%E7%90%86%E7%AF%87/7.%E3%80%90%E7%9F%A9%E9%98%B5%E5%88%86%E8%A7%A3%E3%80%91%E9%82%A3%E4%BA%9B%E5%9C%A8Netflix%20Prize%E4%B8%AD%E5%A4%A7%E6%94%BE%E5%BC%82%E5%BD%A9%E7%9A%84%E6%8E%A8%E8%8D%90%E7%AE%97%E6%B3%95.md)
 > * [【矩阵分解】Facebook是怎么为十亿人互相推荐好友的](https://github.com/Alluka-L/Theory-of-Recommendation-System/blob/master/%E5%8E%9F%E7%90%86%E7%AF%87/8.%E3%80%90%E7%9F%A9%E9%98%B5%E5%88%86%E8%A7%A3%E3%80%91Facebook%E6%98%AF%E6%80%8E%E4%B9%88%E4%B8%BA%E5%8D%81%E4%BA%BF%E4%BA%BA%E4%BA%92%E7%9B%B8%E6%8E%A8%E8%8D%90%E5%A5%BD%E5%8F%8B%E7%9A%84.md)
 > * [【矩阵分解】如何关注排序效果，那么这个模型可以帮到你](https://github.com/Alluka-L/Theory-of-Recommendation-System/blob/master/%E5%8E%9F%E7%90%86%E7%AF%87/9.%E3%80%90%E7%9F%A9%E9%98%B5%E5%88%86%E8%A7%A3%E3%80%91%E5%A6%82%E6%9E%9C%E5%85%B3%E6%B3%A8%E6%8E%92%E5%BA%8F%E6%95%88%E6%9E%9C%EF%BC%8C%E9%82%A3%E4%B9%88%E8%BF%99%E4%B8%AA%E6%A8%A1%E5%9E%8B%E5%8F%AF%E4%BB%A5%E5%B8%AE%E5%88%B0%E4%BD%A0.md)
+> * [【MAB问题】简单却有效的Bandit算法]()
+> * [【MAB问题】结合上下文信息的Bandit算法]()
+> * [【MAB问题】如何将Bandit算法与协同过滤结合使用]()
 * **工程篇**：推荐算法的实践内容。系统落地时需要一些纯工程上的大小事情，架构、选型、案例等。
 * **产品篇**：推荐系统要成功，还要考虑产品理念及其商业价值，因此这部分介绍一些产品知识和一点浅显的商业思考。
 * **团队篇**：从个人来说，就是该怎么学习和成长；从团队来说，就是该招多少人，该有哪些人，以及产品经理和工程师该如何合作等问题。
